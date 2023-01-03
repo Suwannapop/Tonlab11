@@ -45,7 +45,7 @@ int main(){
 	cout << "B = " << count[1] <<", ";	
 	cout << "C = " << count[2]<<", ";
 	cout << "D = " << count[3]<<", ";
-	cout << "F = " << count[4]<<", ";
+	cout << "F = " << count[4];
 	
 
 	//	and so on ... for grade = C, D, F	
